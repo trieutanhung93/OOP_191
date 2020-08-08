@@ -1,0 +1,39 @@
+C:\Users\USER\Desktop\1812475\Game Caro\Game Caro\obj\Debug\Game Caro.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\1812475\Game Caro\Game Caro\obj\Debug\Game_Caro.Form1.resources
+C:\Users\USER\Desktop\1812475\Game Caro\Game Caro\obj\Debug\Game_Caro.Properties.Resources.resources
+C:\Users\USER\Desktop\1812475\Game Caro\Game Caro\obj\Debug\Game Caro.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\1812475\Game Caro\Game Caro\obj\Debug\Game Caro.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\1812475\Game Caro\Game Caro\obj\Debug\Game_Caro.About.resources
+C:\Users\USER\Desktop\1812475\Game Caro\Game Caro\obj\Debug\Game_caro.FormPvsC.resources
+C:\Users\USER\Desktop\1812475\Game Caro\Game Caro\obj\Debug\Game_caro.FormPvsP.resources
+C:\Users\USER\Desktop\1812475\Game Caro\Game Caro\bin\Debug\Game Caro.exe.config
+C:\Users\USER\Desktop\1812475\Game Caro\Game Caro\bin\Debug\Game Caro.exe
+C:\Users\USER\Desktop\1812475\Game Caro\Game Caro\bin\Debug\Game Caro.pdb
+C:\Users\USER\Desktop\1812475\Game Caro\Game Caro\obj\Debug\Game Caro.exe
+C:\Users\USER\Desktop\1812475\Game Caro\Game Caro\obj\Debug\Game Caro.pdb
+C:\Users\ACER\Desktop\ttt\Game Caro\Game Caro\bin\Debug\Game Caro.exe.config
+C:\Users\ACER\Desktop\ttt\Game Caro\Game Caro\bin\Debug\Game Caro.exe
+C:\Users\ACER\Desktop\ttt\Game Caro\Game Caro\bin\Debug\Game Caro.pdb
+C:\Users\ACER\Desktop\ttt\Game Caro\Game Caro\obj\Debug\Game Caro.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\ttt\Game Caro\Game Caro\obj\Debug\Game_Caro.About.resources
+C:\Users\ACER\Desktop\ttt\Game Caro\Game Caro\obj\Debug\Game_Caro.Form1.resources
+C:\Users\ACER\Desktop\ttt\Game Caro\Game Caro\obj\Debug\Game_caro.FormPvsC.resources
+C:\Users\ACER\Desktop\ttt\Game Caro\Game Caro\obj\Debug\Game_caro.FormPvsP.resources
+C:\Users\ACER\Desktop\ttt\Game Caro\Game Caro\obj\Debug\Game_Caro.Properties.Resources.resources
+C:\Users\ACER\Desktop\ttt\Game Caro\Game Caro\obj\Debug\Game Caro.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\ttt\Game Caro\Game Caro\obj\Debug\Game Caro.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\ttt\Game Caro\Game Caro\obj\Debug\Game Caro.exe
+C:\Users\ACER\Desktop\ttt\Game Caro\Game Caro\obj\Debug\Game Caro.pdb
+C:\Users\USER\Desktop\Documents\Game Caro\Game Caro\bin\Debug\Game Caro.exe.config
+C:\Users\USER\Desktop\Documents\Game Caro\Game Caro\bin\Debug\Game Caro.exe
+C:\Users\USER\Desktop\Documents\Game Caro\Game Caro\bin\Debug\Game Caro.pdb
+C:\Users\USER\Desktop\Documents\Game Caro\Game Caro\obj\Debug\Game Caro.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Documents\Game Caro\Game Caro\obj\Debug\Game_Caro.About.resources
+C:\Users\USER\Desktop\Documents\Game Caro\Game Caro\obj\Debug\Game_Caro.Form1.resources
+C:\Users\USER\Desktop\Documents\Game Caro\Game Caro\obj\Debug\Game_caro.FormPvsC.resources
+C:\Users\USER\Desktop\Documents\Game Caro\Game Caro\obj\Debug\Game_caro.FormPvsP.resources
+C:\Users\USER\Desktop\Documents\Game Caro\Game Caro\obj\Debug\Game_Caro.Properties.Resources.resources
+C:\Users\USER\Desktop\Documents\Game Caro\Game Caro\obj\Debug\Game Caro.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Documents\Game Caro\Game Caro\obj\Debug\Game Caro.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Documents\Game Caro\Game Caro\obj\Debug\Game Caro.exe
+C:\Users\USER\Desktop\Documents\Game Caro\Game Caro\obj\Debug\Game Caro.pdb
